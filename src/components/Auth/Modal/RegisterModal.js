@@ -22,7 +22,7 @@ function RegisterModal(props) {
             <Modal.Body>
                 <div className="container mt-4">
                     <div className="row">
-                    <div className="col-m">
+                    <div className="col">
                         <form onSubmit={props.handleSubmit}>
                         <div className="form-group">
                             <label htmlFor="firstName">First Name</label>

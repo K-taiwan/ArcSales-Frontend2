@@ -42,6 +42,9 @@
  .input-group>.form-control {
 	 margin-bottom: 0 !important;
  }
+ .form-control {
+	 display: inline !important;
+ }
 
 
 .profile-container {
