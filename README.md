@@ -1,68 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ArcSales-Benz
 
-## Available Scripts
+**Intro to this project**
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Big Goals for this Project
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+###### What did I want to learn and acheive?
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+* I wanted to make sure that I will ask a tremendous amount of questions on this project. 
+* Identify key areas of my own weakness.
+* Tackle React with the emphasis of learning as much as possible within the short given time frame.
+* Focus on mapping the code out frontend and backend.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Planning
 
-### `npm run build`
+###### Project Planning
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* **Scope:** Continue the legacy of ARC. Make a chain of projects that can bring life to my own enjoyment of cars.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+* **User Stories:** Car enthusiats, needing car service, and buying cars. <a href="https://trello.com/b/QyBPfHkB/arcsales-project4" target="_blank">Trello ArcSales</a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* **Wireframes:** 
 
-### `npm run eject`
+<img src="public/images/Landing.png" width=200> <img src="arc_app/static/img/wireframe2.jpg" width=200> <img src="arc_app/static/img/wireframe3.jpg" width=200>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<img src="arc_app/static/img/wireframe4.jpg" width=200> <img src="arc_app/static/img/wireframe5.jpg" width=200> <img src="arc_app/static/img/wireframe6.jpg" width=200>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<img src="arc_app/static/img/wireframe7.jpg" width=200>
