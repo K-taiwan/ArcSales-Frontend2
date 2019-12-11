@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Carousel from 'react-bootstrap/Carousel';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import './Car.css';
@@ -18,7 +17,7 @@ export default class CarGallery extends Component {
             <Card.Text>
                 <ul>
                 <li>
-                    {/* Brand = {this.props.car.brand} */}
+                    Brand = {this.props.car.brand}
                     <br/>
                     Model = {this.props.car.model}
                     <br/>
@@ -32,7 +31,7 @@ export default class CarGallery extends Component {
                 </ul>
                 <hr className="hr1"/>
             </Card.Text>
-            <Button variant="primary">Delete</Button>
+            <Button variant="primary">Buy Now</Button>
             </Card.Body>
             </Card>
         </div>

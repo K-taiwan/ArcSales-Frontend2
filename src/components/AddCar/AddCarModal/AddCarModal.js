@@ -25,12 +25,12 @@ function AddCarModal(props) {
                 <div className="col">
                     <form onSubmit={props.handleSubmit}>
                     <div className="form-group">
-                        <label htmlFor="model">Model</label>
-                        <input onChange={props.handleChange} className="form-control form-control-lg" type="text" id="Model" name="model" value={props.car.model} />
-                    </div>
-                    <div className="form-group">
                         <label htmlFor="brand">Brand</label>
                         <input onChange={props.handleChange} className="form-control form-control-lg" type="text" id="Brand" name="brand" value={props.car.brand} />
+                    </div>
+                    <div className="form-group">
+                        <label htmlFor="model">Model</label>
+                        <input onChange={props.handleChange} className="form-control form-control-lg" type="text" id="Model" name="model" value={props.car.model} />
                     </div>
                     <div className="form-group">
                         <label htmlFor="year">Year</label>
