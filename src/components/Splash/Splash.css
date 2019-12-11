@@ -449,8 +449,30 @@ button:hover {
 }
 
 .btnSplash {
+	display: inline-block;
 	margin-bottom: 30px;
+	cursor: pointer;
+	outline: 0;
+	border: 2px solid #44545E;
+	color: #44545E;
+	padding: 8px 25.5px;
+	padding: 8px 1.7rem;
+	background-color: transparent;
+	font-weight: 500;
+	text-transform: uppercase;
+	font-size: 12.299px;
+	font-size: .82rem;
+	letter-spacing: 1.2px;
+	letter-spacing: .08rem;
+	transition: all .3s ease-in-out;
 }
+
+.btnSplash:hover {
+	background-color: #44545E;
+	color: white;
+	font-weight: 600;
+}
+
 /* ----------------------------------------
 Forms
 ------------------------------------------- */
