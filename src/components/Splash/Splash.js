@@ -35,24 +35,25 @@ const Splash =() => {
                 <article className="col-third">
                     <img src="images/A45_1.jpg" alt="A45" />
                     <div>
-                        <h3>A45 &mdash; The Southwest</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel voluptate eos nisi necessitatibus aperiam dolorem ut eveniet quae dolores quisquam nulla, cumque tenetur blanditiis modi tempora excepturi error veniam suscipit dicta praesentium reiciendis illo obcaecati odit inventore minima. Pariatur facilis, excepturi! Facilis cumque dicta reiciendis nam accusantium cum pariatur sunt accusamus voluptas eaque sapiente totam dolorum nulla eligendi molestiae, quidem odit repellat temporibus quae ipsa aut placeat modi sint doloribus. Ipsum nisi veritatis, facere doloribus. Nihil veritatis corporis eaque odio.</p>
+                        <h3>A45 &mdash; <a href="https://jalopnik.com/the-2020-mercedes-amg-a45-s-is-the-hottest-hatch-with-a-1836127469">Link</a></h3>
+                        <p>AMG’s take on the new A-Class hatchback and CLA sedan arrived at the Goodwood Festival of Speed yesterday, and they do not disappoint. Meet what is being hailed as the most powerful four-cylinder engine currently in production: a 2.0-liter turbocharged unit putting out 416 horsepower and 369 lb-ft of torque in S guise. This hatchback will handily trump the likes of the Honda Civic Type R and Volkswagen Golf R, and probably make the good noises doing it.</p>
                         <button>Read More</button>
                     </div>
                 </article>
                 <article className="col-third">
-                    <img src="images/CLS63_1.jpg" alt="CLS63" />
+                    <img src="images/GTR.jpg" alt="GT R" />
                     <div>
-                        <h3>Issue Nineteen &mdash; Camping</h3>
-                        <p>Maiores qui doloremque suscipit molestias. Saepe omnis dolore, ipsum voluptatem quisquam eveniet repellat! Eius in vero, cum dolorem ad earum, dignissimos quasi qui obcaecati, minima, esse aliquid beatae. Placeat, adipisci temporibus suscipit neque assumenda earum perferendis autem voluptatem nostrum ipsa porro, voluptas cumque ullam et reiciendis deserunt eos aspernatur esse laudantium cum natus cupiditate nesciunt. Nostrum doloremque odio maiores, quis architecto vero unde error, obcaecati ullam esse soluta et incidunt. Totam quaerat unde doloribus inventore sapiente molestiae, rem? Dolor, est.</p>
-                        <button>Read More</button>
+                    <h3>GT R &mdash; <a href="https://www.thedrive.com/news/19176/this-modified-mercedes-amg-gt-r-makes-769-hp-does-205-mph">Link</a></h3>
+                        <p>Mercedes-Benz Passion Blog reports that German tuner Domanig has teamed up with AMG tuning specialists Individual Mobility, Style & Art (IMSA)—no, not the racing series—to create a custom version of the GT R.  They managed to squeeze 769-hp and 708 pound-feet of torque out of the Merc's 4.0-liter V-8, dropping the GT R's zero to 60 mph time to 2.9 seconds (down from 3.5), and rocketing it to a top speed of 205 mph.To achieve these numbers, the shops have installed larger turbochargers and re-tuned the car's engine and transmission software. These are supported by performance downpipes with a sports catalyst, a better air filter, dual-flow exhaust manifolds, and a new radiator to make sure the engine can handle the significant power increase.</p>
+                        <button href="https://www.thedrive.com/news/19176/this-modified-mercedes-amg-gt-r-makes-769-hp-does-205-mph">Read More</button>
                     </div>
                 </article>
                 <article className="col-third">
-                    <img src="images/CLS63_2.jpg" alt="CLS63"/>
-                    <h3>Issue Eighteen - Food</h3>
-                    <p>Dolore asperiores, ad nam, molestiae, fugiat numquam ut dolorum est unde eum cupiditate! Totam optio ullam enim sed ipsum molestias quod fugiat, placeat, fugit nemo saepe quidem ex asperiores excepturi rerum! Earum obcaecati non dignissimos voluptate repellendus voluptatibus ratione sit totam architecto, pariatur, amet ea. Officia nulla repellat, eius voluptatibus provident repellendus sint dolorum veniam? Amet rerum alias quas aut ratione illum voluptatem excepturi, ea saepe illo quis maxime repudiandae minus praesentium nihil quaerat ducimus reprehenderit consequatur qui?</p>
-                    <button>Read More</button>
+                    <img src="images/GT_4Door.jpg" alt="GT 4 Door"/>
+                    <h3>GT 4 Door Coupe </h3>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/4bgLjcX6NU4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <p>Driving dynamics at motorsport level, explosive sprints, maximum comfort. The Mercedes-AMG GT 63 S 4MATIC+ 4-Door Coupé marks the top spot of the four-door model range. Its dynamic AMG engine mounts guarantee the best-possible connection of the 470 kW (639 hp) strong engine to the body in any handling situation. Especially with a sporty driving style the electronically controlled AMG locking differential enables improved acceleration from corners. The four-door coupé not only shoots from 0 to 100 km/h in 3.2 seconds: thanks to the additional RACE drive program including Drift Mode it also enables sporty driving manoeuvres. And the striking front in jet wing design with trim element makes it clear the first time you set your eyes on it: this is a Mercedes-AMG GT 4-Door Coupé.</p>
+                    <button href="https://www.mercedes-amg.com/en/vehicles/gt/4-door-coupe/gt63s.html">Read More</button>
                 </article>
             </div>
         </section>
