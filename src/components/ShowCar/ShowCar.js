@@ -14,12 +14,10 @@ export default class ShowCar extends Component {
             <Card style={{ width: '18rem' }}>
             <Card.Img variant="top" src={this.props.data.image} />
             <Card.Body>
-            <Card.Title>Card Title</Card.Title>
+            <Card.Title>{this.props.data.model}</Card.Title>
             <Card.Text>
                 <li>
                     Brand = {this.props.data.brand}
-                    <br/>
-                    Model = {this.props.data.model}
                     <br/>
                     Year = {this.props.data.year}
                     <br/>

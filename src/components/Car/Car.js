@@ -13,11 +13,11 @@ export default class CarGallery extends Component {
             <Card style={{ width: '18rem' }}>
             <Card.Img variant="top" src={ this.props.car.image} />
             <Card.Body>
-            <Card.Title>{this.props.car.brand}</Card.Title>
+            <Card.Title>{this.props.car.model}</Card.Title>
             <Card.Text>
                 <ul>
                 <li>
-                    Model = {this.props.car.model}
+                    Brand = {this.props.car.brand}
                     <br/>
                     Year = {this.props.car.year}
                     <br/>
