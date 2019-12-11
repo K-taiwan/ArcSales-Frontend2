@@ -12,7 +12,7 @@ export default class ShowCar extends Component {
             
 
             <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="https://comcar.co.uk/css/assets/img/vehicle-placeholder.png" />
+            <Card.Img variant="top" src={this.props.data.image} />
             <Card.Body>
             <Card.Title>Card Title</Card.Title>
             <Card.Text>
