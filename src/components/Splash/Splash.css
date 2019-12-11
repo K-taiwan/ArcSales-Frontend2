@@ -458,7 +458,7 @@ form {
 	-webkit-box-orient: horizontal;
 	-webkit-box-direction: normal;
 	    -ms-flex-direction: row;
-	        flex-direction: row;
+	        flex-direction: column;
 	-ms-flex-wrap: wrap;
 	    flex-wrap: wrap;
 	-webkit-box-pack: justify;

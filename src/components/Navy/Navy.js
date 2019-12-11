@@ -12,7 +12,7 @@ const Navy = (props) => {
     
     <nav>
       <Navbar bg="light" expand="lg">
-      <Navbar.Brand href="#home">ArcSales-Benz</Navbar.Brand>
+      <Navbar.Brand href="/">ArcSales-Benz</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">

@@ -27,7 +27,6 @@ export default class ShowCar extends Component {
                     <br/>
                     Color = {this.props.data.color}
                     <br/>
-                    {/* <img className="car-img" src="https://comcar.co.uk/css/assets/img/vehicle-placeholder.png" alt="cars" width="300"/> */}
                 </li>
                 <hr className="hr1"/>
             </Card.Text>
